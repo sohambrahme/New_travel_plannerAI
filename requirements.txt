@@ -1,0 +1,5 @@
+streamlit
+requests
+langchain-core
+langchain-groq
+typing-extensions  # For TypedDict support
